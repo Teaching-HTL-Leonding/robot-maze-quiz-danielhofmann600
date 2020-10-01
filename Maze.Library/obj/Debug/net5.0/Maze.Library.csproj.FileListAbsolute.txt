@@ -1,0 +1,12 @@
+D:\C#\robot-maze-quiz-danielhofmann600\Maze.Library\bin\Debug\net5.0\Maze.Library.deps.json
+D:\C#\robot-maze-quiz-danielhofmann600\Maze.Library\bin\Debug\net5.0\Maze.Library.dll
+D:\C#\robot-maze-quiz-danielhofmann600\Maze.Library\bin\Debug\net5.0\ref\Maze.Library.dll
+D:\C#\robot-maze-quiz-danielhofmann600\Maze.Library\bin\Debug\net5.0\Maze.Library.pdb
+D:\C#\robot-maze-quiz-danielhofmann600\Maze.Library\obj\Debug\net5.0\Maze.Library.csprojAssemblyReference.cache
+D:\C#\robot-maze-quiz-danielhofmann600\Maze.Library\obj\Debug\net5.0\Maze.Library.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\robot-maze-quiz-danielhofmann600\Maze.Library\obj\Debug\net5.0\Maze.Library.AssemblyInfoInputs.cache
+D:\C#\robot-maze-quiz-danielhofmann600\Maze.Library\obj\Debug\net5.0\Maze.Library.AssemblyInfo.cs
+D:\C#\robot-maze-quiz-danielhofmann600\Maze.Library\obj\Debug\net5.0\Maze.Library.csproj.CoreCompileInputs.cache
+D:\C#\robot-maze-quiz-danielhofmann600\Maze.Library\obj\Debug\net5.0\Maze.Library.dll
+D:\C#\robot-maze-quiz-danielhofmann600\Maze.Library\obj\Debug\net5.0\ref\Maze.Library.dll
+D:\C#\robot-maze-quiz-danielhofmann600\Maze.Library\obj\Debug\net5.0\Maze.Library.pdb
